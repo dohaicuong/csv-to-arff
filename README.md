@@ -1,3 +1,12 @@
+## Motivation
+This is a web app tool helps to conver csv file to arrf(weka dataset extension).
+Ultimately this will extend to a data preprocessing tool
+
+## Live Demo
+https://csv-to-arff.vercel.app/
+
+## Others
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
