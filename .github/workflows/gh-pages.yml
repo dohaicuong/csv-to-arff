@@ -17,6 +17,7 @@ jobs:
         run: |
           yarn
           yarn build
+          cp build/index.html build/404.html
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
