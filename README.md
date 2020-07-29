@@ -5,6 +5,9 @@ Ultimately this will extend to a data preprocessing tool
 ## Live Demo
 https://csv-to-arff.vercel.app/
 
+## ARRF format documentation
+https://waikato.github.io/weka-wiki/formats_and_processing/arff/#data-format
+
 ## Others
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
